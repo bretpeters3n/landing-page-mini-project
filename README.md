@@ -1,4 +1,4 @@
-CHANGE<div id="top"></div>
+<div id="top"></div>
 <!-- PROJECT SHIELDS -->
 <!--
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
